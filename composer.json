@@ -16,5 +16,8 @@
             "CEmerson\\Trespass\\": "src"
         }
     },
-    "minimum-stability": "stable"
+    "minimum-stability": "stable",
+    "require-dev": {
+        "phpunit/phpunit": "^5.6"
+    }
 }
